@@ -1,6 +1,6 @@
-# Basic-Banking-System_TSFOUNDATION
+# Basic-Banking-System
 
-BASIC BANKING SYSTEM
+BASIC BANKING SYSTEM - https://uphill-major.000webhostapp.com/
 
     Created a simple dynamic & Responsive website that has the following specs.
     
@@ -12,11 +12,6 @@ BASIC BANKING SYSTEM
     4. This website is only for transfer of money between multiple users.
 
 The website hosted at 000webhost 👍👍👍
-  
-    https://
-The Working Video is also available on Youtube 👍👍👍
-
-    https://youtu.be
 # Tech Stacks 👍 :-
   Front End:- 
         
@@ -33,10 +28,3 @@ The Working Video is also available on Youtube 👍👍👍
         >MySQL
         
   
-This Project was given by THE SPARKS FOUNDATION
-  
-      https://www.thesparksfoundationsingapore.org/
-   
-Under the Graduate Rotational Internship Program (GRIP)
-
-      https://www.thesparksfoundationsingapore.org/join-us/internship-positions/
